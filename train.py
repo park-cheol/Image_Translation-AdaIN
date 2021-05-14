@@ -97,6 +97,8 @@ def main_worker(gpu, args):
     print("style_image: ", len(styles))
 
 #todo 코드를 다시 찾아보기 train부분이 없음
+#todo https://github.com/naoto0804/pytorch-AdaIN/blob/9076bdac962f0c744389636dc47f8a3351974009/train.py#L22
+
 
 
 
